@@ -1,4 +1,4 @@
-# tipping_points_FMI
+# Tipping points 
 Tipping points notebooks from FMI
 
 
